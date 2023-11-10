@@ -5,7 +5,7 @@ Dans le fichier pdf :
 - C-ITS
 - Traitement des données
 - Application (en utilisant DataProcessing_CITS.ipynb)
-- Petit travail (utiliser une méthode de classification -sauf Random Forest- et puis comparer les résultats avec celles de XGBoost) (une méthode pour ce qui travaillent individuellement, deux méthodes pour ce qui travaillez en binom)
+- Petit travail (utiliser une méthode de classification -sauf Random Forest- et puis comparer les résultats avec celles de XGBoost) (une méthode pour ce qui travaillent individuellement, deux méthodes pour ce qui travaillent en binom)
 
 Données prêtes pour l'application de détection des intrusions:
 https://filesender.renater.fr/?s=download&token=fc0b1805-a076-4312-9db1-2f4c397a9bfa
